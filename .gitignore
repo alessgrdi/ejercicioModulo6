@@ -42,8 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-node_modules
-npm-debug.log
-quiz.sqlite
-.env
-heroku.log
+# node_modules
+# npm-debug.log
+# quiz.sqlite
+# .env
+# heroku.log
